@@ -1,4 +1,4 @@
-### omw to becoming a web developer 🤓
+### wannabe web developer 😔
 
 <!--
 **agolautner/agolautner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
