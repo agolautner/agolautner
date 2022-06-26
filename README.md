@@ -1,4 +1,6 @@
-### web dev in training
+### full-stack api developer
+- 🌳 currently working on a hike logger app (check it out in my pinned repos)
+- 👨‍💻 open to work, hit me up
 
 <!--
 **agolautner/agolautner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
