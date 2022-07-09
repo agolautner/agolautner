@@ -1,5 +1,5 @@
 ### full-stack api developer
-- 🌳 currently working on a hike logger app (check it out in my pinned repos)
+- 🌳 currently working on a hike logger app for the OKT (Hungarian National Blue Trail) - check it out in my pinned repos
 - 👨‍💻 open to work, hit me up
 
 <!--
