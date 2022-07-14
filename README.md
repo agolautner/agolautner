@@ -4,7 +4,7 @@
 - 👨‍💻 open to work, hit me up
 ### 🔧 technologies
 - HTML5
-- CSS3, SASS
+- CSS3, Sass
 - Javascript
 - React
 - NodeJS, Express
