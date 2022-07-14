@@ -3,8 +3,9 @@
 - 📚 recently finished a full stack API developer course @ Codecool Budapest, currently learning Typescript
 - 👨‍💻 open to work, hit me up
 ### 🔧 technologies
-- HTML, CSS
-- JS
+- HTML5
+- CSS3, SASS
+- Javascript
 - React
 - NodeJS, Express
 - MongoDB, Mongoose
