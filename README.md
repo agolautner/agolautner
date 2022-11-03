@@ -1,5 +1,5 @@
 ## full-stack api developer
-- 🌳 currently working on a hike logger app for the OKT (Hungarian National Blue Trail) - check it out in my pinned repos
+- 🌳 my latest project is a hike logger app for the OKT (Hungarian National Blue Trail) - check it out in my pinned repos
 - 📚 recently finished a full stack API developer course @ Codecool Budapest, currently learning Typescript
 - 👨‍💻 open to work, hit me up
 ### 🔧 technologies
