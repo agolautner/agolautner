@@ -1,7 +1,7 @@
 ## full-stack api developer
 - 🌳 my latest project is a hike logger app for the OKT (Hungarian National Blue Trail) - check it out in my pinned repos
-- 📚 recently finished a full stack API developer course @ Codecool Budapest, currently learning Typescript
-- 👨‍💻 open to work, hit me up
+- 👨‍💻 accredited full stack API developer working as a System Engineer in Unified Communications
+- 📚 currently learning Python3
 ### 🔧 technologies
 - HTML5
 - CSS3, Sass
@@ -9,6 +9,7 @@
 - React
 - NodeJS, Express
 - MongoDB, Mongoose
+- Python3 ⏳
 
 <!--
 **agolautner/agolautner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
