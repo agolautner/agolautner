@@ -1,4 +1,4 @@
-## full-stack api developer
+## Full stack API developer // System Engineer
 - 🌳 my latest project is a hike logger app for the OKT (Hungarian National Blue Trail) - check it out in my pinned repos
 - 👨‍💻 accredited full stack API developer working as a System Engineer in Unified Communications
 - 📚 currently learning Python3
